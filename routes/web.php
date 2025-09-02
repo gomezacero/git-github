@@ -55,3 +55,32 @@ Route::get('/productos', function () {
     
     return view('productos', compact('productos'));
 });
+
+Route::get('/carrito', function () {
+    // Datos de ejemplo para el carrito
+    $carrito = [
+        [
+            'id' => 1,
+            'nombre' => 'Laptop Gaming',
+            'precio' => 1299.99,
+            'cantidad' => 1,
+            'imagen' => 'https://via.placeholder.com/150x150?text=Laptop'
+        ],
+        [
+            'id' => 3,
+            'nombre' => 'Auriculares Inalámbricos',
+            'precio' => 199.99,
+            'cantidad' => 2,
+            'imagen' => 'https://via.placeholder.com/150x150?text=Auriculares'
+        ],
+        [
+            'id' => 5,
+            'nombre' => 'Monitor 4K',
+            'precio' => 399.99,
+            'cantidad' => 1,
+            'imagen' => 'https://via.placeholder.com/150x150?text=Monitor'
+        ]
+    ];
+    
+    return view('carrito', compact('carrito'));
+});
