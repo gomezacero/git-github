@@ -3,3 +3,7 @@
 ## Santiago Gomez Acero
 
 Yo deberia pasar esto pues porque asi es que toca, no hay mas plata para pagar una materia perdida
+
+####  profe dele click a la imagen y recomiende en linkedin
+
+Cambie algo en desarrollo 2
