@@ -570,6 +570,8 @@
                 <li><a href="#inicio">INICIO</a></li>
                 <li><a href="#colecciones">COLECCIONES</a></li>
                 <li><a href="#exclusivos">EXCLUSIVOS</a></li>
+                <li><a href="/productos">PRODUCTOS</a></li>
+                <li><a href="/carrito">CARRITO</a></li>
                 <li><a href="#contacto">CONTACTO</a></li>
             </ul>
         </div>

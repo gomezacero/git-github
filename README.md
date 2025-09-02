@@ -4,4 +4,10 @@
 
 Yo deberia pasar esto pues porque asi es que toca, no hay mas plata para pagar una materia perdida
 
+<<<<<<< HEAD
 ##(profe dele click a la imagen y recomiende en linkedin)
+=======
+####  profe dele click a la imagen y recomiende en linkedin
+
+Cambie algo en desarrollo 2
+>>>>>>> desarrollo
